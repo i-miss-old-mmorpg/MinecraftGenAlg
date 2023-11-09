@@ -2,6 +2,10 @@
 
 This is a Unity demo that generates Minecraft-like terrain using Simplex Noise algorithm
 
+## Screenshots
+
+![Screenshot 1](./Screenshots/Screenshot1.png)
+
 ## Configuration
 
 - **Seed Value:** Accepts any integer between 0 and 999999. Any values outside this range will revert back to the default value.
