@@ -2,7 +2,9 @@
 
 This is a Unity demo that generates Minecraft-like terrain using Simplex Noise algorithm
 
-## Screenshots
+[Demo](https://github.com/i-miss-old-mmorpg/MinecraftGenAlg/releases/tag/v0.1)
+
+## Screenshot
 
 ![Screenshot 1](./Screenshots/Screenshot1.png)
 
